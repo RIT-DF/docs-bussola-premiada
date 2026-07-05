@@ -32,8 +32,10 @@ O prêmio é o motor da campanha. Ele decide, mais do que qualquer outra coisa, 
 
 ## Um prêmio ou vários?
 
-- **Um prêmio principal forte** concentra o desejo e simplifica a comunicação. É a escolha padrão.
-- **Prêmios secundários** (2º e 3º lugar) podem esticar as vendas no fim da campanha ("ainda dá para ganhar!"), mas exigem mais organização na apuração. Comece simples.
+O plugin permite **um ou vários prêmios** na mesma campanha (1º, 2º, 3º lugar…) — é só usar **+ Adicionar prêmio** na aba **Dados do Prêmio**. Todos são sorteados da mesma base de cartões vendidos, sem repetir número, e o plugin cuida da apuração dos N contemplados de uma vez.
+
+- **Um prêmio principal forte** concentra o desejo e simplifica a comunicação. É a escolha padrão para começar.
+- **Prêmios secundários** (2º e 3º lugar) ajudam a esticar as vendas no fim da campanha ("ainda dá para ganhar!"). Com o suporte nativo, a apuração continua simples — mas some os custos de todos ao fazer a conta do resultado líquido.
 
 ## Boas fotos vendem
 

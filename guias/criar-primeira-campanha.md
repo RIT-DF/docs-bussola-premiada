@@ -32,9 +32,17 @@ Nome da campanha, descrição curta, descrição completa e a **causa beneficiad
 
 ## Etapa 2 — Dados do Prêmio
 
-Título do prêmio, descrição do prêmio, **custo do prêmio** (não aparece ao público; ajuda no resultado líquido) e as **fotos do prêmio**. Você pode enviar **várias fotos** e definir a **principal** — ela é a que aparece no compartilhamento.
+Cada prêmio tem título, descrição, **custo do prêmio** (não aparece ao público; ajuda no cálculo do resultado líquido) e as **fotos do prêmio**. Você pode enviar **várias fotos** por prêmio e definir a **principal** — ela é a que aparece no compartilhamento.
 
 ![Etapa Dados do Prêmio](/assets/screenshots/bp-04-campanha-premio.png)
+
+### Um ou vários prêmios
+
+A campanha pode ter **mais de um prêmio** (1º, 2º, 3º lugar…). Use o botão **+ Adicionar prêmio** para incluir cada um, na ordem em que serão sorteados. O primeiro é o **prêmio principal**. Para tirar um prêmio da lista, use **Remover**.
+
+Todos os prêmios são sorteados **da mesma base de cartões vendidos, sem repetir número** — ou seja, cada prêmio vai para um cartão diferente. Se preferir um prêmio só, é só deixar apenas o primeiro; a campanha funciona exatamente como antes.
+
+> 💡 O que muda com vários prêmios: o **regulamento** lista todos os prêmios na ordem; o **resultado público** e os **e-mails** mostram um ganhador por prêmio; e a **prestação de contas** soma os custos de todos os prêmios ao calcular a margem.
 
 > ✅ Capriche nas fotos e no título do prêmio — é o que mais influencia as vendas. Veja [Como escolher um prêmio que vende](/boas-praticas/escolher-premio/).
 

@@ -15,6 +15,10 @@ O que há de novo no Bússola Premiada, em linguagem simples. Cada item indica a
 
 ---
 
+## Versão 1.6.0 — Vários prêmios na mesma campanha
+
+- **1º, 2º, 3º lugar na mesma rifa.** Agora uma campanha pode ter **mais de um prêmio**. Na etapa **Dados do Prêmio**, use **+ Adicionar prêmio** para incluir cada um na ordem em que serão sorteados. Todos são sorteados **da mesma base de cartões vendidos, sem repetir número** — cada prêmio vai para um cartão diferente. O regulamento lista todos os prêmios, o resultado público e os e-mails mostram um ganhador por prêmio, e a prestação de contas soma os custos de todos. Quem quiser um prêmio só não muda nada. Veja [Criar a primeira campanha](/guias/criar-primeira-campanha/) e [Realizar o sorteio](/guias/realizar-sorteio/).
+
 ## Versão 1.5.0 — Blocos e shortcodes para montar sua página
 
 - **Monte a página da campanha no seu construtor.** Agora você pode compor a página da campanha no editor de blocos do WordPress (Gutenberg) ou em construtores como o Elementor, usando **8 componentes** prontos: seleção de cartões, painel de transparência, barra de progresso, resultado do sorteio, botão comprar, compartilhamento, regulamento e a rifa completa. Cada um funciona como **bloco** (categoria “Bússola Premiada”) e como **shortcode**. Veja [Montar a página no construtor](/guias/montar-pagina-construtor/) e [Blocos e Shortcodes](/modulos/blocos-shortcodes/).

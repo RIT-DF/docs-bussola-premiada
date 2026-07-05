@@ -18,13 +18,13 @@ Cada campanha tem um **hotsite próprio**, mobile-first, no endereço `/campanha
 
 ## O que a página traz
 
-- O **prêmio** com galeria de fotos.
+- O(s) **prêmio(s)** com galeria de fotos — quando a campanha tem vários prêmios, todos aparecem em ordem (1º, 2º, 3º…).
 - A **história da causa** (texto rico).
 - O **progresso das vendas** e o **painel de transparência** (indicadores que você escolhe).
 - A **seleção de cartões** (manual ou automática).
 - O **regulamento**.
 - A **barra de compartilhamento** (WhatsApp, Facebook, X, LinkedIn, copiar link).
-- O **resultado** do sorteio, quando a campanha é apurada.
+- O **resultado** do sorteio, quando a campanha é apurada — com um ganhador por prêmio, sempre mascarado por padrão.
 
 ## Configuração
 

@@ -47,6 +47,9 @@ Não com vendas em andamento. Quantidade e valor são definidos no **rascunho** 
 ### Dois compradores podem levar o mesmo cartão?
 Não. Há um mecanismo de **reserva atômica**: quando um cartão está no carrinho de alguém, ninguém mais o compra. Se a compra não é concluída no tempo de reserva, ele volta ao pool.
 
+### Posso ter mais de um prêmio na mesma campanha?
+Sim. Na etapa **Dados do Prêmio**, use **+ Adicionar prêmio** para incluir 1º, 2º, 3º lugar… na ordem em que serão sorteados. Todos saem **da mesma base de cartões vendidos, sem repetir número** — cada prêmio vai para um cartão diferente. O regulamento, o resultado público e os e-mails passam a mostrar um ganhador por prêmio. Se quiser um prêmio só, deixe apenas o primeiro. Veja [Criar a primeira campanha](/guias/criar-primeira-campanha/).
+
 ### Posso oferecer desconto para quem compra vários cartões?
 Sim — configure **descontos por quantidade** na campanha. Ótimo para aumentar o ticket médio.
 

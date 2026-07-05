@@ -20,7 +20,7 @@ status: publicado
 
 Uma campanha se organiza em **abas de topo**:
 
-- **Formulário** (3 etapas: Dados da Campanha · Dados do Prêmio · Configurações da Campanha).
+- **Formulário** (3 etapas: Dados da Campanha · Dados do Prêmio · Configurações da Campanha). A etapa **Dados do Prêmio** aceita **um ou vários prêmios** (1º, 2º, 3º lugar…).
 - **Regulamento** — obrigatório para publicar (veja [Regulamento](/modulos/regulamento/)).
 - **Dados legais** — autorização, processo, observações.
 - **Página pública** — template, transparência, compartilhamento (veja [Página pública](/modulos/pagina-publica/)).
