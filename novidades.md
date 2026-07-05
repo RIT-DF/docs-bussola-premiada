@@ -15,6 +15,21 @@ O que há de novo no Bússola Premiada, em linguagem simples. Cada item indica a
 
 ---
 
+## Versão 1.9.0 — Página pública mais envolvente e transparente
+
+Quatro novidades para engajar quem visita a campanha e provar a lisura do sorteio. Cada uma funciona como **bloco** (Gutenberg) e como **shortcode**.
+
+- **Termômetro de meta.** Defina uma meta de **cartões** e/ou de **arrecadação (R$)** e a página passa a exibir um termômetro com o progresso e um aviso de **meta atingida**. Configure na aba **Página pública** da campanha. (A meta em R$ só aparece se você não estiver ocultando os valores financeiros.)
+- **Verificação pública do sorteio.** Um painel "Como conferir o sorteio" que qualquer pessoa pode usar para confirmar, no próprio navegador, que o resultado é honesto: o **lacre** é publicado antes, a **semente** é revelada depois, e o cálculo é refeito na hora. Um diferencial de confiança para a sua causa.
+- **Vídeos de divulgação.** Cole um link do **YouTube** ou do **Vimeo** e o vídeo aparece embutido na página da campanha. Também dá para anexar um **link de vídeo** como evidência na prestação de contas.
+- **Vitrine de campanhas.** Um endereço único (**`/campanhas`**) que lista todas as suas campanhas ativas em cards — ótimo para divulgar tudo de uma vez. Também embutível em qualquer página do seu site pelo bloco/shortcode **Vitrine**.
+
+Veja como usar em [Personalizar a página pública](/guias/personalizar-pagina-publica/) e [Blocos e Shortcodes](/modulos/blocos-shortcodes/).
+
+> **Correção 1.9.1** — ajuste para a **vitrine** carregar corretamente também quando o site usa o formato de links "Padrão" do WordPress.
+
+---
+
 ## Versão 1.8.0 — Privacidade, minimização de dados e organização das telas
 
 - **Ferramentas de privacidade (LGPD).** O plugin agora conversa com as ferramentas nativas do WordPress em **Ferramentas → Exportar dados pessoais** e **Apagar dados pessoais**: ao atender a um pedido de um titular por e-mail, o sistema **exporta** o consentimento de comunicações e a situação de contemplado, e **apaga** o consentimento quando solicitado. Os **documentos pessoais do contemplado são mantidos** por obrigação legal de prestação de contas do sorteio. (Os dados de compra ficam a cargo do WooCommerce.)

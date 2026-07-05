@@ -5,7 +5,7 @@ parent: "Módulos"
 permalink: /modulos/apuracao/
 role: admin
 routes: ["#/campanhas/:id"]
-screenshots: [bp-21-apuracao]
+screenshots: [bp-21-apuracao, bp-33-verificacao]
 last_verified: 2026-07-05
 status: publicado
 ---
@@ -35,6 +35,14 @@ Quando a campanha tem **mais de um prêmio** (1º, 2º, 3º…), a apuração pr
 Ao finalizar, o resultado **trava**. O(s) ganhador(es) aparece(m) na página pública com o cartão **mascarado** por padrão (protege os dados do contemplado). São disparados os e-mails de **resultado** (a todos) e de **ganhador** (um por contemplado). Reprocessar cria uma **nova versão** e exige o papel de Administrador do plugin — nada é apagado.
 
 O passo a passo está em [Realizar o sorteio](/guias/realizar-sorteio/).
+
+## Verificação pública (novo, 1.9.0)
+
+No método **interno**, você pode publicar um painel **"Como conferir o sorteio"** na página da campanha (bloco/shortcode **Verificação do sorteio**). Antes da apuração, ele mostra o **lacre**; depois, revela a **semente** e o próprio navegador de quem visita **recalcula** e confirma que o cartão sorteado corresponde ao lacre — sem precisar confiar na sua palavra. É uma prova de idoneidade que fortalece a confiança na sua causa.
+
+![Painel de verificação do sorteio](/assets/screenshots/bp-33-verificacao.png)
+
+Como adicionar: veja [Blocos e Shortcodes](/modulos/blocos-shortcodes/) — o shortcode é `[bussola_premiada_verificacao id="ID"]`.
 
 > ✅ **Boas práticas**
 >

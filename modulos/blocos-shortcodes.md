@@ -5,8 +5,8 @@ parent: "Módulos"
 permalink: /modulos/blocos-shortcodes/
 role: admin
 routes: ["#/blocos"]
-screenshots: [bp-25-blocos-referencia, bp-26-blocos-editor]
-source_docs: [PRD_Bussola_Premiada.md#8.24]
+screenshots: [bp-25-blocos-referencia, bp-26-blocos-editor, bp-32-vitrine, bp-33-verificacao]
+source_docs: [PRD_Bussola_Premiada.md#8.24, CHANGELOG.md#1.9.0]
 last_verified: 2026-07-05
 status: publicado
 ---
@@ -35,8 +35,31 @@ Cada um funciona como **bloco** e como **shortcode**:
 | **Compartilhamento** | Botões de WhatsApp, redes sociais e copiar link | `[bussola_premiada_compartilhar id="ID"]` |
 | **Regulamento** | Resumo do regulamento, com “ver completo” | `[bussola_premiada_regulamento id="ID"]` |
 | **Rifa completa (página)** | A página inteira da campanha em um bloco | `[bussola_premiada_rifa id="ID"]` |
+| **Termômetro de meta** *(novo, 1.9.0)* | Progresso rumo à meta de cartões e/ou de arrecadação | `[bussola_premiada_meta id="ID"]` |
+| **Verificação do sorteio** *(novo, 1.9.0)* | Prova pública de que o sorteio foi honesto (veja abaixo) | `[bussola_premiada_verificacao id="ID"]` |
+| **Vitrine de campanhas** *(novo, 1.9.0)* | Lista várias campanhas ativas em cards (não usa `id`) | `[bussola_premiada_vitrine limit="12" order="ending" status="ativas"]` |
 
 > Troque `ID` pelo número da campanha (você encontra o ID na lista de **Campanhas**).
+
+### Vitrine de campanhas
+
+Diferente dos outros, a **vitrine** não é de uma campanha só — ela lista **várias campanhas** em cards (nome, causa, mini-termômetro, link). É o "link único" para divulgar todas as suas campanhas de uma vez. Ela também tem um endereço próprio pronto: **`/campanhas`** no seu site.
+
+Atributos do shortcode/bloco:
+
+- **`limit`** — quantas campanhas exibir (padrão 12, máximo 60).
+- **`order`** — `ending` (mais próximas de sortear primeiro, padrão) ou `recent` (mais recentes).
+- **`status`** — `ativas` (só campanhas abertas, padrão) ou `publicas` (todas as públicas).
+
+No bloco de Gutenberg, esses três viram controles próprios no painel à direita (um deslizante para o limite e menus para ordem e filtro).
+
+![Vitrine de campanhas](/assets/screenshots/bp-32-vitrine.png)
+
+### Verificação do sorteio
+
+O bloco/shortcode de **verificação** mostra, de forma pública, como conferir que o sorteio foi honesto. Antes da apuração, ele exibe o **lacre** (uma "impressão digital" da semente do sorteio, publicada com antecedência). Depois da apuração, revela a **semente** e o próprio navegador de quem visita **recalcula** e confirma que o resultado bate com o lacre — sem precisar confiar na sua palavra. Veja mais em [Módulo Apuração](/modulos/apuracao/).
+
+![Painel de verificação do sorteio](/assets/screenshots/bp-33-verificacao.png)
 
 ## Usando os blocos (Gutenberg)
 

@@ -6,8 +6,8 @@ permalink: /guias/personalizar-pagina-publica/
 task: personalizar-pagina-publica
 role: admin
 routes: ["#/campanhas/:id", "/campanha/:slug"]
-screenshots: [bp-10-pagina-publica-admin, bp-11-pagina-publica-site]
-source_docs: [PRD_Bussola_Premiada.md#8.7, PRD_Bussola_Premiada.md#8.8, PRD_Bussola_Premiada.md#8.9]
+screenshots: [bp-10-pagina-publica-admin, bp-11-pagina-publica-site, bp-29-config-meta-video, bp-30-publica-termometro, bp-31-publica-video]
+source_docs: [PRD_Bussola_Premiada.md#8.7, PRD_Bussola_Premiada.md#8.8, PRD_Bussola_Premiada.md#8.9, CHANGELOG.md#1.9.0]
 last_verified: 2026-07-05
 status: publicado
 ---
@@ -26,7 +26,30 @@ Abra a campanha e clique na aba de topo **Página pública**.
 
 - **Template visual** — escolha entre 5 estilos prontos: *Sofisticado, Moderno, Clássico, Divertido, Emotivo*. Cada um combina com um tom de campanha diferente. As cores da sua organização são aplicadas por cima.
 - **Painel de transparência** — escolha quais indicadores mostrar (total arrecadado, cartões vendidos, cartões restantes…). O financeiro fica **oculto por padrão** — ative só o que quiser expor.
+- **Meta da campanha (termômetro)** — defina uma meta de **cartões** e/ou de **arrecadação (R$)** e a página mostra um termômetro com o progresso e um aviso quando a meta é atingida (veja abaixo).
+- **Vídeo de divulgação** — cole um link do **YouTube** ou do **Vimeo** e o vídeo aparece embutido na página (veja abaixo).
 - **Compartilhamento / Open Graph** — os botões de redes sociais e o card que aparece quando o link é compartilhado.
+
+![Configuração da meta e do vídeo na aba Página pública](/assets/screenshots/bp-29-config-meta-video.png)
+
+### Termômetro de meta
+
+Na seção **Meta da campanha**, marque **Exibir termômetro de meta** e informe:
+
+- **Meta de cartões** — quantos cartões você quer vender (opcional).
+- **Meta em R$** — quanto você quer arrecadar (opcional).
+
+Você pode preencher só uma das duas, ou as duas. A barra mostra o progresso com marcos em 25%, 50%, 75% e 100%, e exibe **🎯 Meta atingida!** quando chega lá.
+
+> ⚠️ A **meta em R$** só aparece publicamente se os **indicadores financeiros não estiverem ocultos** (veja o Painel de transparência acima). Se você preferir não mostrar valores, deixe só a meta de cartões — o termômetro de cartões aparece normalmente.
+
+![Termômetro de meta na página pública](/assets/screenshots/bp-30-publica-termometro.png)
+
+### Vídeo de divulgação
+
+Na seção **Vídeo de divulgação**, cole o endereço do vídeo (ex.: `https://youtu.be/...` ou `https://vimeo.com/...`). Só links do **YouTube** e do **Vimeo** são aceitos — não há upload de arquivo. O vídeo aparece embutido na página da campanha.
+
+![Vídeo embutido na página pública](/assets/screenshots/bp-31-publica-video.png)
 
 ## Como fica para o público
 
