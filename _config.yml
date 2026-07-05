@@ -51,6 +51,8 @@ callouts:
 
 # Links auxiliares (canto superior direito)
 aux_links:
+  "Bússola Premiada":
+    - "https://rit.org.br/solucoes/bussola-premiada/"
   "Acessar a RIT":
     - "https://rit.org.br"
 aux_links_new_tab: true
