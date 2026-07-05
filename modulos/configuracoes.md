@@ -5,7 +5,7 @@ parent: "Módulos"
 permalink: /modulos/configuracoes/
 role: admin
 routes: ["#/organizacao"]
-screenshots: [bp-15-config-organizacao, bp-16-config-identidade, bp-19-config-apuracao, bp-20-config-pdf, bp-27-config-usuarios]
+screenshots: [bp-15-config-organizacao, bp-16-config-identidade, bp-27-config-usuarios, bp-28-config-globais-campanha, bp-19-config-apuracao, bp-20-config-pdf]
 last_verified: 2026-07-05
 status: publicado
 ---
@@ -21,15 +21,16 @@ A seção **Configurações** guarda os dados da organização e os padrões glo
 - **Configurações da Organização** — razão social, CNPJ (validado, formato numérico e alfanumérico), endereço e e-mail. É a **fonte única** que alimenta regulamento, e-mails e página pública.
 - **Identidade visual** — logomarca, favicon e cores da marca (seletor ou valor hexadecimal). Personaliza as páginas públicas.
   ![Aba Identidade visual](/assets/screenshots/bp-16-config-identidade.png)
-- **Bancário e contato** — dados de contato e bancários. Os dados sensíveis **nunca** aparecem na página pública.
+- **Usuários** — atribui os **papéis** do plugin (Administrador da campanha, Auditor, Operador — um ou mais por pessoa) aos usuários do WordPress. Visível para o Administrador da organização e o administrador do site. Passo a passo em [Gerenciar usuários e papéis](/guias/gerenciar-usuarios/).
+  ![Aba Usuários](/assets/screenshots/bp-27-config-usuarios.png)
+- **Configurações Globais da Campanha** — o **contato de dúvidas** que aparece no regulamento e os **padrões de reserva de cartões** (*Tempo de reserva do cartão* — por quantos minutos um cartão escolhido fica reservado para a pessoa concluir a compra — e *máximo de cartões por reserva*). Cada campanha pode sobrescrever esses padrões.
+  ![Aba Configurações Globais da Campanha](/assets/screenshots/bp-28-config-globais-campanha.png)
 - **Banco de Cláusulas de Regulamento** — a biblioteca de cláusulas prontas usada no regulamento.
 - **Apuração** — os padrões globais de sorteio (método padrão, política do contemplado reembolsado).
   ![Aba Apuração](/assets/screenshots/bp-19-config-apuracao.png)
 - **PDF / Relatórios** — o motor de geração de PDF dos documentos.
   ![Aba PDF / Relatórios](/assets/screenshots/bp-20-config-pdf.png)
 - **Doação à RIT** — o apoio voluntário (veja [Doação à RIT](/modulos/doacao-rit/)).
-- **Usuários** — atribui os **papéis** do plugin (Administrador da campanha, Auditor, Operador — um ou mais por pessoa) aos usuários do WordPress. Visível para o Administrador da organização e o administrador do site. Passo a passo em [Gerenciar usuários e papéis](/guias/gerenciar-usuarios/).
-  ![Aba Usuários](/assets/screenshots/bp-27-config-usuarios.png)
 
 ## Snapshots
 

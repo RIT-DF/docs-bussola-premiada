@@ -42,6 +42,8 @@ No curso normal de uma campanha, o plugin pode tratar:
 
 Os direitos dos participantes (acesso, correção, eliminação etc.) são exercidos perante a **organização controladora**, conforme a política de privacidade que ela publica. A organização é responsável por atender a esses pedidos — o Bússola Premiada oferece os meios para localizar e exportar os dados quando necessário.
 
+Na prática, o administrador usa as ferramentas nativas do WordPress em **Ferramentas → Exportar dados pessoais** e **Ferramentas → Apagar dados pessoais** (por e-mail). O plugin contribui com esses pedidos: **exporta** o consentimento de comunicações e a situação de contemplado e **apaga** o consentimento quando solicitado. Os **documentos pessoais do contemplado** (como cópia de identidade) são **mantidos** enquanto durar a obrigação legal de prestação de contas do sorteio (base legal — LGPD art. 16); a organização os remove manualmente quando essa obrigação não se aplicar mais. Os dados de compra são tratados pelo WooCommerce, que tem suas próprias ferramentas de exportação/eliminação.
+
 ## Responsabilidade da organização
 
 Cabe à organização: definir as bases legais e finalidades do tratamento, informar os participantes por meio da sua própria política de privacidade, manter os dados seguros e atualizados e cumprir as obrigações da LGPD.

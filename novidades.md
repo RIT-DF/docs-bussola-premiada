@@ -15,6 +15,13 @@ O que há de novo no Bússola Premiada, em linguagem simples. Cada item indica a
 
 ---
 
+## Versão 1.8.0 — Privacidade, minimização de dados e organização das telas
+
+- **Ferramentas de privacidade (LGPD).** O plugin agora conversa com as ferramentas nativas do WordPress em **Ferramentas → Exportar dados pessoais** e **Apagar dados pessoais**: ao atender a um pedido de um titular por e-mail, o sistema **exporta** o consentimento de comunicações e a situação de contemplado, e **apaga** o consentimento quando solicitado. Os **documentos pessoais do contemplado são mantidos** por obrigação legal de prestação de contas do sorteio. (Os dados de compra ficam a cargo do WooCommerce.)
+- **Menos dados guardados.** O campo de **dados bancários** da organização foi **removido** — não era usado em nenhum documento e guardar dado sensível sem necessidade é um risco desnecessário. Ele volta no futuro, junto da funcionalidade de recibos/repasse.
+- **Aba renomeada e mais clara.** A antiga aba "Bancário e contato" virou **"Configurações Globais da Campanha"**, reunindo o contato de dúvidas e os padrões de reserva. O campo técnico "TTL" agora se chama **"Tempo de reserva do cartão (minutos)"**, com explicação.
+- **Menu mais organizado.** No menu do plugin, **Configurações** passou para depois de **Auditoria**; e a aba **Usuários** ficou logo após **Identidade visual**.
+
 ## Versão 1.7.0 — Convide sua equipe e defina papéis
 
 - **Nova aba Usuários, em Configurações.** Agora dá para **atribuir papéis pela tela**, sem depender de configuração técnica. O Administrador da organização abre **Configurações → Usuários**, encontra a pessoa (busca por nome, login ou e-mail) e marca o que ela pode fazer: **Administrador da campanha**, **Auditor** e/ou **Operador**. A alteração é salva na hora e fica registrada na auditoria. Veja [Gerenciar usuários e papéis](/guias/gerenciar-usuarios/).
