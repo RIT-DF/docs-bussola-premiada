@@ -15,6 +15,19 @@ O que há de novo no Bússola Premiada, em linguagem simples. Cada item indica a
 
 ---
 
+## Versão 1.5.0 — Blocos e shortcodes para montar sua página
+
+- **Monte a página da campanha no seu construtor.** Agora você pode compor a página da campanha no editor de blocos do WordPress (Gutenberg) ou em construtores como o Elementor, usando **8 componentes** prontos: seleção de cartões, painel de transparência, barra de progresso, resultado do sorteio, botão comprar, compartilhamento, regulamento e a rifa completa. Cada um funciona como **bloco** (categoria “Bússola Premiada”) e como **shortcode**. Veja [Montar a página no construtor](/guias/montar-pagina-construtor/) e [Blocos e Shortcodes](/modulos/blocos-shortcodes/).
+- **Nova página de referência.** No menu do plugin, a página **Blocos e Shortcodes** lista todos os componentes com exemplos prontos para copiar.
+
+## Versão 1.4.1 — Correção na tela de Auditoria
+
+- **Tabela de auditoria visível no computador.** Corrigido um problema em que a lista de auditoria não aparecia no desktop.
+
+## Versão 1.4.0 — Mais proteção contra abusos
+
+- **Reservas ainda mais protegidas.** Novas barreiras de segurança nas reservas públicas (limite por campanha e um desafio automático sob picos de acesso) reforçam a proteção contra uso abusivo — sem atrapalhar quem participa de verdade.
+
 ## Versão 1.3.0 — Trilha de auditoria consultável
 
 - **Nova tela de Auditoria.** O plugin já registrava as ações sensíveis nos bastidores; agora há uma **tela de consulta** para elas: filtre por ação, tipo, origem, usuário e período, expanda cada registro e exporte em CSV. Ideal para o conselho fiscal e para a prestação de contas. Veja [Auditoria](/modulos/auditoria/).

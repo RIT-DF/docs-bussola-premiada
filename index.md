@@ -92,6 +92,11 @@ permalink: /
     <div class="module-card-title">Auditoria</div>
     <div class="module-card-desc">Trilha de ações sensíveis para governança e transparência.</div>
   </a>
+  <a class="module-card" href="/modulos/blocos-shortcodes/">
+    <div class="module-card-icon">🧩</div>
+    <div class="module-card-title">Blocos e Shortcodes</div>
+    <div class="module-card-desc">Componentes para montar a página da campanha no seu construtor.</div>
+  </a>
 </div>
 
 <div class="section-title">Documentos</div>

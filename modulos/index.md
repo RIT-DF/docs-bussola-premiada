@@ -21,4 +21,5 @@ Esta seção é a referência de consulta: uma página por módulo do plugin, ex
 - [Prestação de contas](/modulos/prestacao-contas/) — documentos, relatórios e fechamento.
 - [Configurações](/modulos/configuracoes/) — dados da organização, identidade visual e ajustes.
 - [Auditoria](/modulos/auditoria/) — a trilha de ações sensíveis, para governança.
+- [Blocos e Shortcodes](/modulos/blocos-shortcodes/) — componentes para montar a página no construtor.
 - [Doação à RIT](/modulos/doacao-rit/) — apoio voluntário ao projeto.

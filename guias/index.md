@@ -22,6 +22,7 @@ Passo a passo das tarefas mais comuns. Se você sabe **o que** quer fazer mas n�
 4. [Publicar o regulamento](/guias/publicar-regulamento/)
 5. [Personalizar a página pública](/guias/personalizar-pagina-publica/)
 6. [Configurar os e-mails](/guias/configurar-emails/)
+7. [Montar a página no construtor](/guias/montar-pagina-construtor/)
 
 ## Operar, sortear e fechar
 
