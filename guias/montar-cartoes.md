@@ -29,7 +29,7 @@ Animais do Brasil · Artistas · Cidades do Brasil · Clássicos da literatura �
 
 Você as encontra na seção **Templates**.
 
-![Seção Templates](../assets/screenshots/bp-07-templates.png)
+![Seção Templates](/assets/screenshots/bp-07-templates.png)
 
 ## Criar sua própria lista
 
@@ -49,7 +49,7 @@ Os cartões são gerados **dentro da campanha**, na aba de cartões do formulár
 2. Defina a **quantidade de cartões** e o **valor unitário** na aba **Configurações da Campanha**.
 3. Escolha o **template** (numérico ou uma lista) e clique em **gerar**. O plugin cria os cartões únicos e **congela o valor** de cada um naquele momento.
 
-![Geração de cartões na campanha](../assets/screenshots/bp-06-campanha-cartoes.png)
+![Geração de cartões na campanha](/assets/screenshots/bp-06-campanha-cartoes.png)
 
 > ⚠️ **Atenção**
 >

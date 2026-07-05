@@ -20,7 +20,7 @@ Com a campanha no ar, o **Painel** é onde você acompanha tudo: quanto entrou, 
 
 Abra **Bússola Premiada → Painel**. Ele traz uma visão consolidada de todas as campanhas.
 
-![Painel com indicadores](../assets/screenshots/bp-01-dashboard.png)
+![Painel com indicadores](/assets/screenshots/bp-01-dashboard.png)
 
 Você encontra:
 
@@ -38,7 +38,7 @@ Você encontra:
 
 Em **Campanhas**, você vê todas com seu status atual e acessa cada uma para ver o **progresso de vendas** (cartões vendidos, reservados, disponíveis).
 
-![Lista de campanhas](../assets/screenshots/bp-02-campanhas-lista.png)
+![Lista de campanhas](/assets/screenshots/bp-02-campanhas-lista.png)
 
 ## Como as vendas funcionam nos bastidores
 

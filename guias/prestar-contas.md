@@ -20,7 +20,7 @@ Prestar contas é o que fecha o ciclo com transparência e protege a organizaç�
 
 Abra a campanha e clique na aba de topo **Prestação de contas**.
 
-![Aba Prestação de contas](../assets/screenshots/bp-22-prestacao-contas.png)
+![Aba Prestação de contas](/assets/screenshots/bp-22-prestacao-contas.png)
 
 ## Anexar documentos
 

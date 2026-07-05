@@ -36,7 +36,7 @@ O plugin já traz modelos prontos para os momentos-chave:
 
 Na aba **Templates**, edite o assunto e o corpo de cada e-mail. Você pode usar **variáveis** como o nome da campanha e os cartões, que o plugin substitui no envio. O layout já usa o cabeçalho e o rodapé da sua organização.
 
-![Aba Templates de e-mail](../assets/screenshots/bp-12-emails-templates.png)
+![Aba Templates de e-mail](/assets/screenshots/bp-12-emails-templates.png)
 
 Use o botão de **enviar teste** para receber uma amostra e conferir como fica.
 
@@ -44,7 +44,7 @@ Use o botão de **enviar teste** para receber uma amostra e conferir como fica.
 
 Na aba **Configurações**, defina o **nome e o e-mail do remetente**. Esse é o "De:" que o comprador vê.
 
-![Aba Configurações de e-mail](../assets/screenshots/bp-13-emails-config.png)
+![Aba Configurações de e-mail](/assets/screenshots/bp-13-emails-config.png)
 
 ## Consentimento e opt-out
 
@@ -56,7 +56,7 @@ A aba **Consentimentos** lista quem aceitou receber comunicações e permite exp
 
 A aba **Log de envio** registra cada e-mail enviado: destinatário, assunto e status (**Enviado**, **Falhou** ou **Ignorado — sem consentimento**). O log **não** guarda o corpo do e-mail, por privacidade.
 
-![Aba Log de envio](../assets/screenshots/bp-14-emails-logs.png)
+![Aba Log de envio](/assets/screenshots/bp-14-emails-logs.png)
 
 > ✅ **Boas práticas**
 >

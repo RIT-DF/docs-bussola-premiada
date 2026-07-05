@@ -22,19 +22,19 @@ Com a organização configurada e (opcionalmente) os cartões planejados, é hor
 
 No menu **Bússola Premiada**, abra **Campanhas** e clique em **Nova campanha**.
 
-![Lista de campanhas](../assets/screenshots/bp-02-campanhas-lista.png)
+![Lista de campanhas](/assets/screenshots/bp-02-campanhas-lista.png)
 
 ## Etapa 1 — Dados da Campanha
 
 Nome da campanha, descrição curta, descrição completa e a **causa beneficiada**. A descrição completa e a causa aceitam **texto formatado** (negrito, títulos, listas, links) — use isso para contar a história do projeto.
 
-![Etapa Dados da Campanha](../assets/screenshots/bp-03-campanha-nova-dados.png)
+![Etapa Dados da Campanha](/assets/screenshots/bp-03-campanha-nova-dados.png)
 
 ## Etapa 2 — Dados do Prêmio
 
 Título do prêmio, descrição do prêmio, **custo do prêmio** (não aparece ao público; ajuda no resultado líquido) e as **fotos do prêmio**. Você pode enviar **várias fotos** e definir a **principal** — ela é a que aparece no compartilhamento.
 
-![Etapa Dados do Prêmio](../assets/screenshots/bp-04-campanha-premio.png)
+![Etapa Dados do Prêmio](/assets/screenshots/bp-04-campanha-premio.png)
 
 > ✅ Capriche nas fotos e no título do prêmio — é o que mais influencia as vendas. Veja [Como escolher um prêmio que vende](/boas-praticas/escolher-premio/).
 
@@ -48,7 +48,7 @@ Aqui ficam os números e as regras:
 - **Método de apuração** (interno, Loteria Federal ou manual).
 - **Descontos por quantidade** (opcional).
 
-![Etapa Configurações da Campanha](../assets/screenshots/bp-05-campanha-config.png)
+![Etapa Configurações da Campanha](/assets/screenshots/bp-05-campanha-config.png)
 
 ## Salvar e completar
 

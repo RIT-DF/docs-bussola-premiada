@@ -15,7 +15,7 @@ status: publicado
 
 A **Trilha de auditoria** registra as ações sensíveis realizadas no plugin — quem fez o quê, quando e de onde. É a memória da campanha para fins de governança, transparência e prestação de contas.
 
-![Trilha de auditoria](../assets/screenshots/bp-24-auditoria.png)
+![Trilha de auditoria](/assets/screenshots/bp-24-auditoria.png)
 
 ## Onde fica
 

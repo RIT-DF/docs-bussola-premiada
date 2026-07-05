@@ -14,7 +14,7 @@ status: publicado
 
 O módulo de apuração define o **ganhador** de forma auditável. Ele oferece três métodos e cuida da imutabilidade do resultado.
 
-![Aba Apuração](../assets/screenshots/bp-21-apuracao.png)
+![Aba Apuração](/assets/screenshots/bp-21-apuracao.png)
 
 ## Congelamento da base
 

@@ -14,7 +14,7 @@ status: publicado
 
 Este módulo fecha o ciclo da campanha com transparência: reúne documentos, oferece um checklist e gera relatórios.
 
-![Aba Prestação de contas](../assets/screenshots/bp-22-prestacao-contas.png)
+![Aba Prestação de contas](/assets/screenshots/bp-22-prestacao-contas.png)
 
 ## Documentos
 

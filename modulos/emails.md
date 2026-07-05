@@ -14,7 +14,7 @@ status: publicado
 
 O módulo de e-mails cuida de toda a comunicação automática da campanha, com respeito à LGPD. Você o acessa pelo atalho **✉️ E-mails** no Painel.
 
-![Templates de e-mail](../assets/screenshots/bp-12-emails-templates.png)
+![Templates de e-mail](/assets/screenshots/bp-12-emails-templates.png)
 
 ## Quatro abas
 
@@ -23,7 +23,7 @@ O módulo de e-mails cuida de toda a comunicação automática da campanha, com 
 - **Consentimentos** — quem aceitou receber comunicações promocionais; exportável em CSV.
 - **Log de envio** — cada envio com destinatário, assunto e status. Sem o corpo do e-mail, por privacidade.
 
-![Log de envio](../assets/screenshots/bp-14-emails-logs.png)
+![Log de envio](/assets/screenshots/bp-14-emails-logs.png)
 
 ## E-mails disponíveis
 

@@ -14,7 +14,7 @@ status: publicado
 
 Os **cartões** são o que se compra na campanha. Os **templates** são as listas que dão origem a eles.
 
-![Seção Templates](../assets/screenshots/bp-07-templates.png)
+![Seção Templates](/assets/screenshots/bp-07-templates.png)
 
 ## Templates (listas)
 
@@ -28,7 +28,7 @@ Você também pode **criar suas próprias listas** ou **importar um CSV** (o plu
 
 Os cartões são gerados **dentro de cada campanha**, na aba de configurações, e só enquanto a campanha está em rascunho. Ao gerar, o plugin cria cartões únicos e **congela o valor** de cada um.
 
-![Geração de cartões](../assets/screenshots/bp-06-campanha-cartoes.png)
+![Geração de cartões](/assets/screenshots/bp-06-campanha-cartoes.png)
 
 ## Como o cliente escolhe
 

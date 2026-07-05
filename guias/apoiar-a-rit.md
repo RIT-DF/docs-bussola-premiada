@@ -20,7 +20,7 @@ O Bússola Premiada é desenvolvido pela **RIT — Rede de Inovação e Transfor
 
 Abra **Configurações → Doação à RIT** (a doação também aparece como um card no Painel).
 
-![Card de doação à RIT](../assets/screenshots/bp-23-doacao-rit.png)
+![Card de doação à RIT](/assets/screenshots/bp-23-doacao-rit.png)
 
 ## Como funciona
 

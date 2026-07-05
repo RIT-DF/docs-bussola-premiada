@@ -14,7 +14,7 @@ status: publicado
 
 O Painel é a primeira tela ao abrir o Bússola Premiada — o **cockpit** que resume a saúde das suas campanhas.
 
-![Painel do Bússola Premiada](../assets/screenshots/bp-01-dashboard.png)
+![Painel do Bússola Premiada](/assets/screenshots/bp-01-dashboard.png)
 
 ## O que ele mostra
 

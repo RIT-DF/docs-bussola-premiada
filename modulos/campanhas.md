@@ -14,7 +14,7 @@ status: publicado
 
 É o coração do plugin. Aqui você cria, configura, publica e gerencia cada sorteio — do rascunho à conclusão.
 
-![Lista de campanhas](../assets/screenshots/bp-02-campanhas-lista.png)
+![Lista de campanhas](/assets/screenshots/bp-02-campanhas-lista.png)
 
 ## O formulário em abas
 

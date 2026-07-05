@@ -20,7 +20,7 @@ O regulamento é **obrigatório**: nenhuma campanha entra no ar sem um regulamen
 
 Abra a campanha e clique na aba de topo **Regulamento**.
 
-![Aba Regulamento](../assets/screenshots/bp-08-regulamento.png)
+![Aba Regulamento](/assets/screenshots/bp-08-regulamento.png)
 
 ## Como funciona
 
@@ -47,7 +47,7 @@ O regulamento é montado de três fontes:
 
 Na aba **Dados legais** você registra número de autorização, processo e observações. São **opcionais**, mas se estiverem em branco o plugin **pede confirmação explícita** antes de publicar a campanha — um lembrete para você não esquecer.
 
-![Aba Dados legais](../assets/screenshots/bp-09-dados-legais.png)
+![Aba Dados legais](/assets/screenshots/bp-09-dados-legais.png)
 
 > ✅ **Boas práticas**
 >

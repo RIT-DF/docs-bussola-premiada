@@ -43,7 +43,7 @@ Você precisa de:
 
 No menu lateral do WordPress, clique em **Bússola Premiada**. Você chega ao **Painel**, o cockpit da ferramenta: um resumo das campanhas, da arrecadação e dos próximos sorteios.
 
-![Painel do Bússola Premiada](../assets/screenshots/bp-01-dashboard.png)
+![Painel do Bússola Premiada](/assets/screenshots/bp-01-dashboard.png)
 
 No topo, ao lado da logo, aparece o nome da seção em que você está e a versão do plugin. O botão **📖 Manual / Guia** leva sempre a esta documentação.
 

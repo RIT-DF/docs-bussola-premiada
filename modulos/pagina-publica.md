@@ -14,7 +14,7 @@ status: publicado
 
 Cada campanha tem um **hotsite próprio**, mobile-first, no endereço `/campanha/nome-da-campanha`. É a vitrine da sua rifa.
 
-![Página pública da campanha](../assets/screenshots/bp-11-pagina-publica-site.png)
+![Página pública da campanha](/assets/screenshots/bp-11-pagina-publica-site.png)
 
 ## O que a página traz
 
@@ -30,7 +30,7 @@ Cada campanha tem um **hotsite próprio**, mobile-first, no endereço `/campanha
 
 Na aba **Página pública** da campanha você escolhe o **template visual** (Sofisticado, Moderno, Clássico, Divertido, Emotivo), os indicadores de **transparência** e as opções de **compartilhamento/Open Graph**.
 
-![Aba Página pública no admin](../assets/screenshots/bp-10-pagina-publica-admin.png)
+![Aba Página pública no admin](/assets/screenshots/bp-10-pagina-publica-admin.png)
 
 ## Shortcodes para page builders
 

@@ -20,7 +20,7 @@ Cada campanha ganha uma **página pública própria** (um hotsite), com endereç
 
 Abra a campanha e clique na aba de topo **Página pública**.
 
-![Aba Página pública (admin)](../assets/screenshots/bp-10-pagina-publica-admin.png)
+![Aba Página pública (admin)](/assets/screenshots/bp-10-pagina-publica-admin.png)
 
 ## O que dá para ajustar
 
@@ -32,7 +32,7 @@ Abra a campanha e clique na aba de topo **Página pública**.
 
 A página reúne, em uma rolagem: o prêmio com as fotos, a história da causa, o progresso das vendas, a seleção de cartões, o regulamento e os botões de compartilhar.
 
-![Página pública da campanha](../assets/screenshots/bp-11-pagina-publica-site.png)
+![Página pública da campanha](/assets/screenshots/bp-11-pagina-publica-site.png)
 
 ## Compra: como o participante age
 

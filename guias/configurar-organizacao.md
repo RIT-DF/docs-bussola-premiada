@@ -23,12 +23,12 @@ No menu **Bússola Premiada**, abra **Configurações**. A tela tem várias abas
 ## Passo a passo
 
 1. Abra **Configurações** e fique na aba **Configurações da Organização**.
-   ![Aba Configurações da Organização](../assets/screenshots/bp-15-config-organizacao.png)
+   ![Aba Configurações da Organização](/assets/screenshots/bp-15-config-organizacao.png)
 2. Preencha os **dados institucionais**: razão social, CNPJ, endereço e e-mail. Razão social, CNPJ e e-mail são obrigatórios — o plugin valida o CNPJ (aceita o formato numérico e o novo alfanumérico da Receita Federal).
 3. Vá para a aba **Identidade visual** e envie a **logomarca** e o **favicon** pela Biblioteca de Mídia do WordPress. Ajuste as **cores da marca** — você pode escolher no seletor de cor ou digitar o valor hexadecimal (ex.: `#192444`). Essas cores personalizam a página pública das campanhas.
-   ![Aba Identidade visual](../assets/screenshots/bp-16-config-identidade.png)
+   ![Aba Identidade visual](/assets/screenshots/bp-16-config-identidade.png)
 4. Na aba **Bancário e contato**, informe os dados de contato e bancários da organização. Alguns desses dados são sensíveis e **nunca** aparecem na página pública — ficam disponíveis só internamente e nos documentos.
-   ![Aba Bancário e contato](../assets/screenshots/bp-17-config-bancario.png)
+   ![Aba Bancário e contato](/assets/screenshots/bp-17-config-bancario.png)
 5. **Salve** cada aba. O salvamento é por aba, então confirme antes de trocar de seção.
 
 ## As outras abas

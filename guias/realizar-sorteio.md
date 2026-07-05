@@ -20,7 +20,7 @@ Chegou a data. O Bússola Premiada faz a apuração de forma **auditável** — 
 
 Abra a campanha e clique na aba de topo **Apuração**.
 
-![Aba Apuração](../assets/screenshots/bp-21-apuracao.png)
+![Aba Apuração](/assets/screenshots/bp-21-apuracao.png)
 
 ## Passo 1 — Congelar a base
 

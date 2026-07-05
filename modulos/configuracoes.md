@@ -14,19 +14,19 @@ status: publicado
 
 A seção **Configurações** guarda os dados da organização e os padrões globais que valem para todas as campanhas. É organizada em abas.
 
-![Aba Configurações da Organização](../assets/screenshots/bp-15-config-organizacao.png)
+![Aba Configurações da Organização](/assets/screenshots/bp-15-config-organizacao.png)
 
 ## As abas
 
 - **Configurações da Organização** — razão social, CNPJ (validado, formato numérico e alfanumérico), endereço e e-mail. É a **fonte única** que alimenta regulamento, e-mails e página pública.
 - **Identidade visual** — logomarca, favicon e cores da marca (seletor ou valor hexadecimal). Personaliza as páginas públicas.
-  ![Aba Identidade visual](../assets/screenshots/bp-16-config-identidade.png)
+  ![Aba Identidade visual](/assets/screenshots/bp-16-config-identidade.png)
 - **Bancário e contato** — dados de contato e bancários. Os dados sensíveis **nunca** aparecem na página pública.
 - **Banco de Cláusulas de Regulamento** — a biblioteca de cláusulas prontas usada no regulamento.
 - **Apuração** — os padrões globais de sorteio (método padrão, política do contemplado reembolsado).
-  ![Aba Apuração](../assets/screenshots/bp-19-config-apuracao.png)
+  ![Aba Apuração](/assets/screenshots/bp-19-config-apuracao.png)
 - **PDF / Relatórios** — o motor de geração de PDF dos documentos.
-  ![Aba PDF / Relatórios](../assets/screenshots/bp-20-config-pdf.png)
+  ![Aba PDF / Relatórios](/assets/screenshots/bp-20-config-pdf.png)
 - **Doação à RIT** — o apoio voluntário (veja [Doação à RIT](/modulos/doacao-rit/)).
 
 ## Snapshots

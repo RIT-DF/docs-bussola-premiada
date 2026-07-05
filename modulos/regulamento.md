@@ -14,7 +14,7 @@ status: publicado
 
 O regulamento é o documento que define as regras da campanha — e é **obrigatório**: nenhuma campanha abre sem um regulamento publicado. O módulo monta a maior parte do texto para você.
 
-![Aba Regulamento](../assets/screenshots/bp-08-regulamento.png)
+![Aba Regulamento](/assets/screenshots/bp-08-regulamento.png)
 
 ## Semi-automático
 

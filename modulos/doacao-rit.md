@@ -14,7 +14,7 @@ status: publicado
 
 Um recurso **opcional** para apoiar a continuidade do Bússola Premiada, desenvolvido pela RIT.
 
-![Card de doação à RIT](../assets/screenshots/bp-23-doacao-rit.png)
+![Card de doação à RIT](/assets/screenshots/bp-23-doacao-rit.png)
 
 ## Como funciona
 
