@@ -5,7 +5,7 @@ parent: "Módulos"
 permalink: /modulos/configuracoes/
 role: admin
 routes: ["#/organizacao"]
-screenshots: [bp-15-config-organizacao, bp-16-config-identidade, bp-19-config-apuracao, bp-20-config-pdf]
+screenshots: [bp-15-config-organizacao, bp-16-config-identidade, bp-19-config-apuracao, bp-20-config-pdf, bp-27-config-usuarios]
 last_verified: 2026-07-05
 status: publicado
 ---
@@ -28,6 +28,8 @@ A seção **Configurações** guarda os dados da organização e os padrões glo
 - **PDF / Relatórios** — o motor de geração de PDF dos documentos.
   ![Aba PDF / Relatórios](/assets/screenshots/bp-20-config-pdf.png)
 - **Doação à RIT** — o apoio voluntário (veja [Doação à RIT](/modulos/doacao-rit/)).
+- **Usuários** — atribui os **papéis** do plugin (Administrador da campanha, Auditor, Operador — um ou mais por pessoa) aos usuários do WordPress. Visível para o Administrador da organização e o administrador do site. Passo a passo em [Gerenciar usuários e papéis](/guias/gerenciar-usuarios/).
+  ![Aba Usuários](/assets/screenshots/bp-27-config-usuarios.png)
 
 ## Snapshots
 

@@ -14,7 +14,8 @@ Passo a passo das tarefas mais comuns. Se você sabe **o que** quer fazer mas n�
 ## Preparar
 
 1. [Configurar a organização](/guias/configurar-organizacao/)
-2. [Montar os cartões](/guias/montar-cartoes/)
+2. [Gerenciar usuários e papéis](/guias/gerenciar-usuarios/)
+3. [Montar os cartões](/guias/montar-cartoes/)
 
 ## Criar e publicar
 

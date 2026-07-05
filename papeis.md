@@ -11,6 +11,8 @@ status: publicado
 
 O plugin é usado por pessoas diferentes, com responsabilidades diferentes. Saber em qual papel você está ajuda a achar rápido o que precisa — e mantém cada pessoa com o acesso certo, nem mais, nem menos. As permissões usam as *capabilities* do WordPress e toda mudança de permissão é registrada.
 
+> **Como atribuir um papel:** o Administrador da organização define os papéis na aba **Configurações → Usuários**, marcando um ou mais papéis por pessoa. Uma pessoa pode acumular papéis (as permissões se somam). Passo a passo em [Gerenciar usuários e papéis](/guias/gerenciar-usuarios/).
+
 ## Administrador do plugin
 
 Acesso total. Configura a organização, ajusta o plugin, gerencia permissões e enxerga todos os dados e logs. Em OSCs pequenas, costuma ser a mesma pessoa que administra o site.

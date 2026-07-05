@@ -15,6 +15,12 @@ O que há de novo no Bússola Premiada, em linguagem simples. Cada item indica a
 
 ---
 
+## Versão 1.7.0 — Convide sua equipe e defina papéis
+
+- **Nova aba Usuários, em Configurações.** Agora dá para **atribuir papéis pela tela**, sem depender de configuração técnica. O Administrador da organização abre **Configurações → Usuários**, encontra a pessoa (busca por nome, login ou e-mail) e marca o que ela pode fazer: **Administrador da campanha**, **Auditor** e/ou **Operador**. A alteração é salva na hora e fica registrada na auditoria. Veja [Gerenciar usuários e papéis](/guias/gerenciar-usuarios/).
+- **Uma pessoa pode ter mais de um papel.** Os acessos se somam — útil para quem, por exemplo, opera as vendas e também acompanha as contas.
+- **Responsáveis pela campanha mais fáceis de achar.** No formulário da campanha, a escolha dos responsáveis subiu para o **topo** da aba **Configurações**. E, com os papéis agora atribuíveis pela tela, a lista de responsáveis deixa de aparecer vazia.
+
 ## Versão 1.6.0 — Vários prêmios na mesma campanha
 
 - **1º, 2º, 3º lugar na mesma rifa.** Agora uma campanha pode ter **mais de um prêmio**. Na etapa **Dados do Prêmio**, use **+ Adicionar prêmio** para incluir cada um na ordem em que serão sorteados. Todos são sorteados **da mesma base de cartões vendidos, sem repetir número** — cada prêmio vai para um cartão diferente. O regulamento lista todos os prêmios, o resultado público e os e-mails mostram um ganhador por prêmio, e a prestação de contas soma os custos de todos. Quem quiser um prêmio só não muda nada. Veja [Criar a primeira campanha](/guias/criar-primeira-campanha/) e [Realizar o sorteio](/guias/realizar-sorteio/).
