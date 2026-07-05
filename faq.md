@@ -1,0 +1,77 @@
+---
+title: "Dúvidas frequentes"
+nav_order: 7
+permalink: /faq/
+last_verified: 2026-07-05
+status: publicado
+---
+
+# Dúvidas frequentes
+
+## Sobre a ferramenta
+
+### O que é o Bússola Premiada?
+Um plugin para WordPress, integrado ao WooCommerce, que permite a Organizações da Sociedade Civil criar, vender, divulgar, apurar e prestar contas de campanhas premiadas (sorteios e rifas eletrônicas) — com transparência e governança.
+
+### Preciso de quê para usar?
+Um WordPress com **WooCommerce ativo** (8.0+), o plugin instalado e um meio de pagamento configurado no WooCommerce (Pix, cartão, boleto). Veja os [Primeiros passos](/primeiros-passos/).
+
+### O Bússola Premiada processa o pagamento?
+Não. O pagamento é feito pelo **checkout do WooCommerce**, com o meio que sua organização já usa. O plugin cuida dos cartões, do sorteio e da prestação de contas.
+
+### Quanto custa?
+O plugin é **software livre** (licença GPL). Há um recurso **opcional** de [doação voluntária à RIT](/guias/apoiar-a-rit/) para apoiar o projeto — mas ele funciona integralmente sem qualquer doação.
+
+## Legalidade e segurança
+
+### Usar o plugin deixa minha campanha "legal" automaticamente?
+Não. O plugin **apoia** a conformidade (regulamento obrigatório, apuração auditável, prestação de contas), mas **não substitui** aconselhamento jurídico nem protocola autorizações. A responsabilidade pela regularidade é da organização. Leia [Requisitos legais de um sorteio](/boas-praticas/requisitos-legais/) e o [Aviso legal](/legal/aviso/).
+
+### Preciso de autorização do governo para fazer uma rifa?
+Depende da modalidade e do valor. Sorteios no Brasil são regulados (Lei 5.768/1971, Decreto 70.951/1972) e alguns exigem autorização prévia do Ministério da Fazenda. Consulte um profissional para o seu caso.
+
+### Como o sorteio é confiável?
+Você escolhe: sorteio pela **Loteria Federal**, método **interno reproduzível** (qualquer auditor confere o resultado) ou **manual** com registro. Antes de sortear, a base de cartões é **congelada** e fica imutável. Veja [Apuração](/modulos/apuracao/).
+
+### E a proteção de dados (LGPD)?
+Os dados pessoais são tratados com privacy-by-design: relatórios saem **mascarados** por padrão, o documento do ganhador é sempre privado, o consentimento para e-mails promocionais é explícito e há trilha de auditoria. Veja a [Política de Privacidade](/legal/privacidade/).
+
+## Campanhas e cartões
+
+### Posso sortear nomes em vez de números?
+Sim. Os cartões podem ser **números** ou **nomes de uma lista temática**. O plugin traz 9 listas prontas e você pode criar as suas. Veja [Montar os cartões](/guias/montar-cartoes/).
+
+### Posso mudar a quantidade de cartões depois de publicar?
+Não com vendas em andamento. Quantidade e valor são definidos no **rascunho** e travam após a publicação, para proteger a integridade da rifa. Planeje antes de abrir.
+
+### Dois compradores podem levar o mesmo cartão?
+Não. Há um mecanismo de **reserva atômica**: quando um cartão está no carrinho de alguém, ninguém mais o compra. Se a compra não é concluída no tempo de reserva, ele volta ao pool.
+
+### Posso oferecer desconto para quem compra vários cartões?
+Sim — configure **descontos por quantidade** na campanha. Ótimo para aumentar o ticket médio.
+
+### Como remarco a data do sorteio?
+Pelo diálogo de reagendamento na campanha. O plugin exige **justificativa**, avisa **todos os compradores** por e-mail e registra a mudança. Datas de campanhas sorteadas/canceladas só mudam com permissão de Administrador do plugin.
+
+## Página e divulgação
+
+### A campanha tem endereço próprio?
+Sim: `/campanha/nome-da-campanha`, um hotsite mobile-first. Veja [Página pública](/modulos/pagina-publica/).
+
+### O endereço da campanha dá "página não encontrada" (404). O que faço?
+Vá em **Configurações → Links permanentes** do WordPress e clique em **Salvar** (sem mudar nada) para regenerar as regras.
+
+### Posso colocar a rifa dentro de outra página do site?
+Sim, com **shortcodes** como `[bussola_premiada_rifa id="123"]`. Veja [Página pública](/modulos/pagina-publica/).
+
+## E-mails
+
+### Quais e-mails o plugin envia?
+Confirmação de compra, aviso de nova venda, esgotado, lançamento, lembrete de sorteio, mudança de data, resultado e ganhador. Veja [Configurar os e-mails](/guias/configurar-emails/).
+
+### Um comprador não quer mais receber e-mails promocionais. Como funciona?
+E-mails promocionais só vão para quem **consentiu**, e cada um traz um link de **descadastro de um clique**. E-mails transacionais (confirmação de compra) sempre são enviados.
+
+## Ainda com dúvida?
+
+Se algo não foi respondido aqui, fale com a equipe da [RIT](https://rit.org.br). E confira as [Novidades](/novidades/) para ver o que mudou nas versões recentes.

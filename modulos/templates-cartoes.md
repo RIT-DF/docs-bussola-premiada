@@ -1,0 +1,41 @@
+---
+title: "Templates & Cartões"
+nav_order: 3
+parent: "Módulos"
+permalink: /modulos/templates-cartoes/
+role: admin
+routes: ["#/templates", "#/campanhas/:id"]
+screenshots: [bp-07-templates, bp-06-campanha-cartoes]
+last_verified: 2026-07-05
+status: publicado
+---
+
+# Templates & Cartões
+
+Os **cartões** são o que se compra na campanha. Os **templates** são as listas que dão origem a eles.
+
+![Seção Templates](../assets/screenshots/bp-07-templates.png)
+
+## Templates (listas)
+
+Um template pode ser **numérico** (gera cartões numerados) ou do tipo **lista** (cada cartão é um nome).
+
+O plugin embarca **9 listas temáticas prontas**: Animais do Brasil, Artistas, Cidades do Brasil, Clássicos da literatura, Especialidades escoteiras, Ficção científica, Heróis dos quadrinhos, Músicas K-pop e Pessoas históricas. Elas são semeadas automaticamente e ficam prontas para uso — você não precisa montar nada.
+
+Você também pode **criar suas próprias listas** ou **importar um CSV** (o plugin remove duplicados e espaços em excesso).
+
+## Cartões
+
+Os cartões são gerados **dentro de cada campanha**, na aba de configurações, e só enquanto a campanha está em rascunho. Ao gerar, o plugin cria cartões únicos e **congela o valor** de cada um.
+
+![Geração de cartões](../assets/screenshots/bp-06-campanha-cartoes.png)
+
+## Como o cliente escolhe
+
+Na página pública, o participante pode escolher **manualmente** os cartões disponíveis ou pedir uma **seleção automática** (aleatória). Os cartões escolhidos ficam **reservados** por alguns minutos enquanto ele finaliza a compra. Um mecanismo de **reserva atômica** garante que dois compradores nunca levem o mesmo cartão.
+
+O passo a passo está em [Montar os cartões](/guias/montar-cartoes/).
+
+> ✅ **Boas práticas**
+>
+> Listas temáticas tornam a rifa mais lúdica e comentável. Escolha um tema que **dialogue com a sua causa ou seu público** — uma OSC ambiental pode usar "Animais do Brasil", um grupo de leitura, "Clássicos da literatura".
