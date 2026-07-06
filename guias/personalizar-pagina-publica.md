@@ -6,7 +6,7 @@ permalink: /guias/personalizar-pagina-publica/
 task: personalizar-pagina-publica
 role: admin
 routes: ["#/campanhas/:id", "/campanha/:slug"]
-screenshots: [bp-10-pagina-publica-admin, bp-11-pagina-publica-site, bp-29-config-meta-video, bp-30-publica-termometro, bp-31-publica-video]
+screenshots: [bp-10-pagina-publica-admin, bp-11-pagina-publica-site, bp-29-config-meta-video, bp-30-publica-termometro, bp-31-publica-video, bp-34-modelo-emotivo]
 source_docs: [PRD_Bussola_Premiada.md#8.7, PRD_Bussola_Premiada.md#8.8, PRD_Bussola_Premiada.md#8.9, CHANGELOG.md#1.9.0]
 last_verified: 2026-07-05
 status: publicado
@@ -24,7 +24,7 @@ Abra a campanha e clique na aba de topo **Página pública**.
 
 ## O que dá para ajustar
 
-- **Template visual** — escolha entre 5 estilos prontos: *Sofisticado, Moderno, Clássico, Divertido, Emotivo*. Cada um combina com um tom de campanha diferente. As cores da sua organização são aplicadas por cima.
+- **Template visual** — escolha entre **6 modelos** que transformam radicalmente o visual da página (não é só a cor): *Moderno* (conversão), *Sofisticado* (elegante, foto do prêmio no topo), *Clássico* (jornal, duas colunas), *Emotivo* (a causa em primeiro plano, com contagem regressiva), *Divertido* (colorido e leve) e *Simples* (direto ao ponto). O seletor mostra uma **miniatura** de cada modelo — clique nela para **ampliar**. **As cores da sua organização** (Identidade visual) são aplicadas automaticamente sobre o modelo escolhido, com o contraste do texto ajustado para ficar sempre legível.
 - **Painel de transparência** — escolha quais indicadores mostrar (total arrecadado, cartões vendidos, cartões restantes…). O financeiro fica **oculto por padrão** — ative só o que quiser expor.
 - **Meta da campanha (termômetro)** — defina uma meta de **cartões** e/ou de **arrecadação (R$)** e a página mostra um termômetro com o progresso e um aviso quando a meta é atingida (veja abaixo).
 - **Vídeo de divulgação** — cole um link do **YouTube** ou do **Vimeo** e o vídeo aparece embutido na página (veja abaixo).
@@ -50,6 +50,10 @@ Você pode preencher só uma das duas, ou as duas. A barra mostra o progresso co
 Na seção **Vídeo de divulgação**, cole o endereço do vídeo (ex.: `https://youtu.be/...` ou `https://vimeo.com/...`). Só links do **YouTube** e do **Vimeo** são aceitos — não há upload de arquivo. O vídeo aparece embutido na página da campanha.
 
 ![Vídeo embutido na página pública](/assets/screenshots/bp-31-publica-video.png)
+
+Exemplo do modelo *Emotivo* com as cores de uma organização aplicadas (hero com a foto do prêmio, contagem regressiva e a causa em destaque):
+
+![Modelo Emotivo com as cores da organização](/assets/screenshots/bp-34-modelo-emotivo.png)
 
 ## Como fica para o público
 

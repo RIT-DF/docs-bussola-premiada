@@ -15,6 +15,19 @@ O que há de novo no Bússola Premiada, em linguagem simples. Cada item indica a
 
 ---
 
+## Versão 1.10.0 — Modelos radicais da página pública
+
+Sua campanha ganha **6 modelos** de página que transformam de verdade o visual — não é só trocar a cor:
+
+- **Moderno** (foco em conversão), **Sofisticado** (elegante, com a foto do prêmio no topo), **Clássico** (estilo jornal, duas colunas), **Emotivo** (a causa em primeiro plano, com contagem regressiva para o sorteio), **Divertido** (colorido e leve) e **Simples** (direto ao ponto).
+- **As cores da sua organização** são aplicadas automaticamente sobre o modelo escolhido, e o sistema **ajusta o contraste** do texto para ficar sempre legível — inclusive colocando a sua logo numa moldura clara para não sumir no fundo.
+- O seletor de modelos agora mostra uma **miniatura** de cada um (clique para ampliar), em **Editar campanha → Página pública → Template visual**.
+- Novos elementos de engajamento: **contagem regressiva** até o sorteio e um resumo em **cards de fatos** (data, valor do cartão, prêmio, vendidos).
+
+Veja em [Personalizar a página pública](/guias/personalizar-pagina-publica/).
+
+---
+
 ## Versão 1.9.0 — Página pública mais envolvente e transparente
 
 Quatro novidades para engajar quem visita a campanha e provar a lisura do sorteio. Cada uma funciona como **bloco** (Gutenberg) e como **shortcode**.
