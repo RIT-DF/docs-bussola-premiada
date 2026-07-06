@@ -15,6 +15,18 @@ O que há de novo no Bússola Premiada, em linguagem simples. Cada item indica a
 
 ---
 
+## Versão 1.12.0 — Painel de gestão da campanha
+
+Cada campanha ganhou um **Painel** — a primeira aba ao abrir a campanha — com a sua visão de gestão num relance:
+
+- **Vendas** (vendidos, % da barra, reservados, disponíveis, pedidos), **Financeiro** (arrecadado, descontos, líquido, ticket médio), **Ritmo** (vendas dos últimos 7 dias, média por dia e uma **projeção de quando deve esgotar**) e **dias até o sorteio**.
+- **Meta** e **conversão de reservas**; e, na fase de encerramento, um resumo das **pendências da prestação de contas**.
+- Funciona bem no celular e não exige nenhuma configuração — está pronto em toda campanha.
+
+Veja em [Painel da campanha](/guias/painel-da-campanha/).
+
+---
+
 ## Versão 1.11.0 — Painel "Meus cartões" para o comprador
 
 Agora o participante consulta **sem precisar de login** os cartões que comprou e o resultado do sorteio.

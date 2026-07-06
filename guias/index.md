@@ -27,6 +27,7 @@ Passo a passo das tarefas mais comuns. Se vocÃª sabe **o que** quer fazer mas nÃ
 
 ## Operar, sortear e fechar
 
+7. [Painel da campanha](/guias/painel-da-campanha/)
 7. [Acompanhar as vendas](/guias/acompanhar-vendas/)
 8. [Realizar o sorteio](/guias/realizar-sorteio/)
 9. [Prestar contas](/guias/prestar-contas/)
