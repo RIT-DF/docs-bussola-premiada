@@ -15,6 +15,18 @@ O que há de novo no Bússola Premiada, em linguagem simples. Cada item indica a
 
 ---
 
+## Versão 1.13.0 — Loteria Federal para qualquer campanha
+
+Agora dá para apurar pela **Loteria Federal** também as campanhas de **lista temática** (cartões que são nomes, não números).
+
+- Cada cartão ganha um **número de sorteio** (a posição na lista, ex.: *Duna · 07*), que casa com o resultado oficial da Loteria Federal.
+- Você liga isso na aba **Dados legais** da campanha, em **"Apuração oficial pela Loteria Federal"**. A partir daí o número aparece em todos os lugares onde o cartão é mostrado (compra, e-mail, pedido, "Meus cartões") — o participante sabe com que número concorre.
+- Há também um sinalizador **"depende de autorização (SPA/MF)"**, que recomenda a Loteria e oferece uma **cláusula de regulamento** pronta.
+
+Veja em [Realizar o sorteio](/guias/realizar-sorteio/).
+
+---
+
 ## Versão 1.12.0 — Painel de gestão da campanha
 
 Cada campanha ganhou um **Painel** — a primeira aba ao abrir a campanha — com a sua visão de gestão num relance:

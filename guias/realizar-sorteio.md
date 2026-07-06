@@ -36,6 +36,19 @@ Antes de sortear, você **congela** a lista de cartões vendidos. A partir daí:
 - **Loteria Federal** — o resultado é definido pela extração da Loteria Federal. Você informa o concurso; o plugin extrai os últimos dígitos do número premiado e aplica a **regra de não-bate** que você definiu (caso o número não corresponda a um cartão vendido). O plugin pode buscar a extração automaticamente, mas **você confirma** — ele nunca decide sozinho.
 - **Manual** — para sorteios feitos fora do sistema (uma live, um evento). Você registra o resultado com **justificativa e anexos**.
 
+## Loteria Federal em qualquer campanha (novo, 1.13.0)
+
+Antes, a apuração pela Loteria Federal só funcionava com cartões **numerados**. Agora ela vale também para as **listas temáticas** (aquelas em que cada cartão é um nome — filmes, livros, jogadores…): cada cartão passa a ter, além do nome, um **número de sorteio** (a sua posição na lista, ex.: *Duna · 07*). É esse número que casa com o resultado da Loteria Federal.
+
+Para usar, abra a campanha, vá na aba **Dados legais** e ligue **"Apuração oficial pela Loteria Federal"**. Ao ligar:
+
+- cada cartão passa a **mostrar o número de sorteio** em todos os lugares — na hora de comprar, no e-mail de confirmação, no pedido e no painel "Meus cartões" — para o participante saber com que número está concorrendo;
+- a apuração passa a usar a **Loteria Federal** (o sorteio interno fica desligado nessa campanha).
+
+Há também, ao lado, a opção **"Esta campanha depende de autorização de sorteio (SPA/MF)"**: quando marcada, o sistema **recomenda** ligar a apuração pela Loteria (é o método que atende ao rito legal de sorteios autorizados) e disponibiliza uma **cláusula de regulamento** pronta sobre a base na Loteria Federal.
+
+> Isto é apoio ao processo. A necessidade de autorização e a conferência do regulamento com um advogado continuam sendo responsabilidade da organização.
+
 ## Passo 3 — Finalizar e publicar
 
 Ao finalizar, o resultado é **travado** (imutável). O(s) contemplado(s) é(são) definido(s) e:
