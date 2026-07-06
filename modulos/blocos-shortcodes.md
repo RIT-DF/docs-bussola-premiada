@@ -38,8 +38,13 @@ Cada um funciona como **bloco** e como **shortcode**:
 | **Termômetro de meta** *(novo, 1.9.0)* | Progresso rumo à meta de cartões e/ou de arrecadação | `[bussola_premiada_meta id="ID"]` |
 | **Verificação do sorteio** *(novo, 1.9.0)* | Prova pública de que o sorteio foi honesto (veja abaixo) | `[bussola_premiada_verificacao id="ID"]` |
 | **Vitrine de campanhas** *(novo, 1.9.0)* | Lista várias campanhas ativas em cards (não usa `id`) | `[bussola_premiada_vitrine limit="12" order="ending" status="ativas"]` |
+| **Meus cartões** *(novo, 1.11.0)* | Painel do comprador: cartões e resultado, sem login (não usa `id`) | `[bussola_premiada_meus_cartoes]` |
 
 > Troque `ID` pelo número da campanha (você encontra o ID na lista de **Campanhas**).
+
+### Meus cartões (painel do comprador)
+
+O bloco/shortcode **Meus cartões** mostra ao **participante**, sem login, os cartões que ele comprou e o resultado do sorteio. Diferente dos outros, **não usa `id`**: ele exibe as campanhas do próprio comprador a partir de um link pessoal enviado por e-mail. Também está sempre disponível no endereço pronto **`/meus-cartoes`** do seu site. Veja o passo a passo em [Painel "Meus cartões" do comprador](/guias/painel-meus-cartoes/).
 
 ### Vitrine de campanhas
 

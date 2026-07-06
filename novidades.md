@@ -15,6 +15,19 @@ O que há de novo no Bússola Premiada, em linguagem simples. Cada item indica a
 
 ---
 
+## Versão 1.11.0 — Painel "Meus cartões" para o comprador
+
+Agora o participante consulta **sem precisar de login** os cartões que comprou e o resultado do sorteio.
+
+- Todo **e-mail de confirmação de compra** passa a trazer um link pessoal *"meus cartões"*. Quem perdeu o e-mail pode pedir o link de novo pelo formulário **"Receber o link por e-mail"** na própria página.
+- O painel agrupa tudo **por campanha**: os **números** comprados, a **situação do pedido** e, depois do sorteio, o **resultado** — com destaque **"🎉 Você foi contemplado!"** e link para conferir a apuração.
+- Sua organização publica esse painel no endereço pronto **`/meus-cartoes`**, ou embute em qualquer página pelo bloco/shortcode **Meus cartões**.
+- Feito com privacidade em primeiro lugar: o link é pessoal e não adivinhável, e o formulário nunca revela se um e-mail comprou ou não.
+
+Veja em [Painel "Meus cartões" do comprador](/guias/painel-meus-cartoes/).
+
+---
+
 ## Versão 1.10.0 — Modelos radicais da página pública
 
 Sua campanha ganha **6 modelos** de página que transformam de verdade o visual — não é só trocar a cor:

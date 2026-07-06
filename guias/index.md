@@ -31,3 +31,7 @@ Passo a passo das tarefas mais comuns. Se você sabe **o que** quer fazer mas n�
 8. [Realizar o sorteio](/guias/realizar-sorteio/)
 9. [Prestar contas](/guias/prestar-contas/)
 10. [Apoiar a RIT](/guias/apoiar-a-rit/)
+
+## Para o comprador
+
+11. [Painel "Meus cartões" do comprador](/guias/painel-meus-cartoes/)
